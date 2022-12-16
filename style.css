@@ -1,0 +1,31 @@
+body{
+    background-color: #181D31;
+}
+
+.heading{
+    color: #678983;
+    padding: 2%;
+    font-size: 7rem;
+
+}
+
+.arena{
+    margin-top: 2%;
+    width: 50%;
+}
+h3{
+    color: #E6DDC4;
+}
+
+footer{
+    margin-top: 10%;
+    text-align: center;
+    color: #fff;
+}
+
+img{
+    margin-top: 1rem;
+    width: 60%;
+}
+
+
